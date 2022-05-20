@@ -1,6 +1,4 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/tsbb2b-sfg-brewery.svg?style=svg)](https://circleci.com/gh/springframeworkguru/tsbb2b-sfg-brewery)
-
-# Modif CBO pour test pipeline sur push README
+[![CircleCI](https://app.circleci.com/pipelines/github/cbouttes/tsbb2b-sfg-brewery?style=svg)](https://app.circleci.com/pipelines/github/cbouttes/tsbb2b-sfg-brewery)
 
 # Testing Spring Boot B2G - SFG Brewery
 
